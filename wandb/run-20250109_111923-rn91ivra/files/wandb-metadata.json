@@ -1,0 +1,25 @@
+{
+  "os": "Windows-10-10.0.22631-SP0",
+  "python": "CPython 3.11.11",
+  "startedAt": "2025-01-09T10:19:23.509543Z",
+  "program": "-m __main__",
+  "email": "e.karietaite@gmail.com",
+  "root": "C:\\Users\\ekari\\OneDrive\\Desktop\\ML Operations\\mlopsproj",
+  "host": "Mazulytis",
+  "executable": "C:\\Users\\ekari\\anaconda3\\envs\\MLOps_env\\python.exe",
+  "cpu_count": 12,
+  "cpu_count_logical": 16,
+  "disk": {
+    "/": {
+      "total": "509722226688",
+      "used": "185716436992"
+    }
+  },
+  "memory": {
+    "total": "16890978304"
+  },
+  "cpu": {
+    "count": 12,
+    "countLogical": 16
+  }
+}
