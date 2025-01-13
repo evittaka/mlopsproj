@@ -1,4 +1,4 @@
-from project.model import MyAwesomeModel
+from src.project.model import MyAwesomeModel
 import torch
 import pytest
 

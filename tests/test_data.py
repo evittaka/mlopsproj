@@ -1,4 +1,4 @@
-from project.data import corrupt_mnist
+from src.project.data import corrupt_mnist
 import torch
 import os.path
 import pytest
