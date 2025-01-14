@@ -5,6 +5,10 @@ outs:
   - relpath: data.txt
     md5: 79b547467286b3e20fad13f73fc1bf78
     size: 19
+    cloud:
+      store:
+        etag: 08cef6cfee86f58a031001
+        version_id: '1736852257373006'
   - relpath: processed/.gitkeep
     md5: d41d8cd98f00b204e9800998ecf8427e
     size: 0
