@@ -2,3 +2,4 @@
     remote = store
 ['remote "store"']
     url = gs://mlops_data_evit/
+    version_aware = true
